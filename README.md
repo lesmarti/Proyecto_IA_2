@@ -2,6 +2,11 @@
 
 Este proyecto permite detectar cuántos y cuáles dedos de una mano están levantados usando la cámara y la biblioteca MediaPipe en Python, y enciende LEDs conectados a un Arduino según los dedos detectados.
 
+
+## Link del Video
+https://drive.google.com/file/d/1_YrqCm5LSSheengVTgogfnMX4aZnc0yH/view?usp=sharing
+
+
 ## Descripción General
 
 El proyecto se compone de dos partes principales:
